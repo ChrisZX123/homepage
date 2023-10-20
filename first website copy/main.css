@@ -1,0 +1,49 @@
+body {
+	background-color: rgb(222, 203, 158);
+	margin: 20px;
+	font-size: 20px;
+
+
+
+}
+
+
+p { 
+		font-size: 20px; 
+		color: white;
+		background-color: rgb(157, 107, 69);
+		padding: 30px;
+		margin: 30px;
+		margin-top: 60px;
+
+	}
+	p: hover {
+		font-size: 30px;
+
+	}
+	a {
+		color: green;
+		
+	}
+
+
+	li {
+
+		font-size: 20px;
+		color: red;
+
+	}
+
+	ol {
+		background-color: aquamarine;
+
+
+	}
+
+
+
+	.introduction {
+		background-color: darkolivegreen;
+		border: 60px dotted lightblue;
+
+	}
